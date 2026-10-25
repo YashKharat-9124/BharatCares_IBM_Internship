@@ -1,0 +1,13 @@
+# Customer Churn Prediction System
+# Dependencies for the Streamlit app and common notebook analysis.
+# Install with: pip install -r requirements.txt
+
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+jupyter
+ipykernel
